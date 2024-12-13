@@ -4,7 +4,7 @@ using namespace std;
 template <typename Tipo>
 class AlberoBin {
 private:
-    Tipo elementi[100];
+    Tipo elementi[100] ;
     bool presente[100];
     int numeroNodi;
 
